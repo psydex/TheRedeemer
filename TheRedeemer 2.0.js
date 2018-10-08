@@ -3,7 +3,7 @@
 // @namespace   raina (modified by psydex)
 // @description Pops up the Steam product activation webpage when copying keys from any website. Does not require Steam to be installed!
 // @include     *
-// @version     1.9
+// @version     2.0
 // @grant       none
 // ==/UserScript==
 (function() {
