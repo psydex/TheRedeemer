@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name        The Redeemer
-// @namespace   raina (modified by psydex)
+// @namespace   psydex
 // @description Pops up the Steam product activation webpage when copying keys from any website. Does not require Steam to be installed!
 // @include     *
-// @version     2.0
+// @version     2.1
 // @grant       none
 // ==/UserScript==
 (function() {
