@@ -3,8 +3,11 @@
 // @namespace   psydex
 // @description Pops up the Steam product activation webpage when copying keys from any website. Does not require Steam to be installed!
 // @include     *
-// @version     2.1
+// @version     2.2
 // @grant       none
+// @homepageURL https://github.com/psydex/TheRedeemer/
+// @downloadURL https://raw.githubusercontent.com/psydex/TheRedeemer/master/TheRedeemer.js
+// @updateURL   https://raw.githubusercontent.com/psydex/TheRedeemer/master/TheRedeemer.js
 // ==/UserScript==
 (function() {
 	"use strict";
